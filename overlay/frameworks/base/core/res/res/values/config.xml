@@ -44,11 +44,6 @@
         <item>evdo:4094,87380,262144,4096,16384,262144</item>
     </string-array>
 
-    <!-- Control whether a car dock event should override the default bluetooth
-         audio routing, FORCE_BT_CAR_DOCK, with an analog dock, FORCE_ANALOG_DOCK. -->
-    <bool name="config_forceAnalogCarDock">true</bool>
-    <bool name="config_forceAnalogDeskDock">true</bool>
-
     <!-- Ultrasound support for Mic/speaker path -->
     <!-- Whether the default microphone audio source supports near-ultrasound frequencies
          (range of 18 - 21 kHz). -->
