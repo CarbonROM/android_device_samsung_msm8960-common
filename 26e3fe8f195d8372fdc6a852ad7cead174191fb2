@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 9A9F0FBA 1495901748 +0200\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_device_samsung_msm8960-common\nnonce 1495901749-5729FBF6B585809E42C44FC24C5CFBCD8A83A401\n\n0000000000000000000000000000000000000000 26e3fe8f195d8372fdc6a852ad7cead174191fb2 refs/for/cr-5.1\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZKaY0AAoJEHkGJiGanw+63p4H/27JsOmyggrQPJIusM4JhfyN\nNx7BW3J1zldb1rsMCN80rVeXgFmnn/mi3frfJwGU2TORMSgOteT+IzndWsuvBIYK\nkg9MXokRLiCuNRLaYcltsGeKv4f+khDw1cykfG25f98nE/OBCnLXOlthuleZqfww\nEH//f436zJSURIdeldVhB42QHbkE2ev/oksECc5JO0p3PbiZE4rHmSgUQsC2G1we\ncaugbxzCfB3j55sg+ThYHtGjFGRZPaYmpMPVS/B2h5jY8/5Uof66rcukjZID1woR\nESZIoLNeQT8/7cGMu275RsXHBIzFjQT42hox4FSCoJMFi1qYsclQdumfPgk05L0\u003d\n\u003d0DlW\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
